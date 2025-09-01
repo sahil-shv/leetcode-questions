@@ -1,6 +1,6 @@
 # 🧠 LeetCode Solutions in Java
 
-This repository contains my LeetCode problem solutions, all implemented in **Java**. It's my personal space for improving **problem-solving skills**, **data structures**, and **algorithmic thinking**.
+This repository contains my LeetCode problem solutions. It's my personal space for improving **problem-solving skills**, **data structures**, and **algorithmic thinking**.
 
 ---
 
