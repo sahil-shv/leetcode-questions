@@ -12,7 +12,6 @@ This repository contains my LeetCode problem solutions. It's my personal space f
 ---
 
 ## 🚀 About
-- All solutions are written in **Java**.
 - Emphasis on **clean code**, **readability**, and **efficiency**.
 - Solutions are updated regularly as I solve new problems.
 
